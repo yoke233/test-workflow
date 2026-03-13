@@ -1,3 +1,4 @@
-# Conflict injection 2026-03-13 09:17:25
-This line conflicts with the agent's changes.
-
+# test-workflowsmoke 20260310-203446smoke 20260310-205550
+flow-test: round2
+flow-test: round2
+## Conflicting line pushed directly to main
